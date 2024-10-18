@@ -14,3 +14,7 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brieu2332&layout=compact&theme=dracula)
 
 ![Visualizações](https://komarev.com/ghpvc/?username=brieu2332&color=blue)
+
+### 🐍 Cobrinha comendo meus commits
+![Snake animation](https://github.com/brieu2332/brieu2332/blob/output/github-contribution-grid-snake.svg)
+
