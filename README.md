@@ -1,15 +1,16 @@
-## Hi 👋 i’m Gabriel, future programmer
+## Hi, i’m Gabriel 👋
 
+future software developer
 -  I’m a computer science student
 -  Instituto de Ciência e Tecnologia Catarinese
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Java
+- Git
+- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## 📫 Como entrar em contato comigo:
-- Email: [gabriel](mailto:gabriel2332rodrigues@gmail.com)
-- LinkedIn: [gabriel](https://www.linkedin.com/in/seu-usuario/)
+- Email: [aqui](mailto:gabriel2332rodrigues@gmail.com)
+- LinkedIn: Gabriel Rodrigues Gonçalves 
 ## 📈 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
