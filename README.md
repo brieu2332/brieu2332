@@ -14,8 +14,6 @@
 ![most used languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brieu2332&layout=compact&theme=dracula)
 
 
-### 🐍 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brieu2332/brieu2332/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brieu2332/brieu2332/output/github-contribution-grid-snake-dark.svg">
