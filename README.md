@@ -10,4 +10,4 @@
 - Email: [aqui](mailto:gabriel2332rodrigues@gmail.com)
 - LinkedIn: Gabriel Rodrigues Gonçalves 
 ## 📈 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?brieu2332&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brieu2332&show_icons=true&theme=dracula)
