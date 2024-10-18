@@ -9,5 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## 📫 Como entrar em contato comigo:
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/
+- Email: [gabriel](mailto:gabriel2332rodrigues@gmail.com)
+- LinkedIn: [gabriel](https://www.linkedin.com/in/seu-usuario/)
+## 📈 Estatísticas do GitHub:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
