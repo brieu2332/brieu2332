@@ -16,4 +16,4 @@
 ![Visualizations](https://komarev.com/ghpvc/?username=brieu2332&color=blue)
 
 ### 🐍 Cobrinha comendo meus commits
-![snake animation](https://github.com/brieu2332/brieu2332/blob/output/github-contribution-grid-snake.svg)
+# ![snake gif](https://github.com/brieu2332/brieu2332/blob/output/github-contribution-grid-snake.gif)
