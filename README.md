@@ -8,7 +8,7 @@
 
 ## 📫 How to contact me:
 - Email: [here](mailto:gabriel2332rodrigues@gmail.com)
-- LinkedIn: Gabriel Rodrigues Gonçalves 
+- LinkedIn: [here](https://www.linkedin.com/in/gabriel-rodrigues-gon%C3%A7alves-86642b243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 📊 My stats:
 ![most used languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brieu2332&layout=compact&theme=dracula)
