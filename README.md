@@ -2,7 +2,7 @@
 
 - future software developer
 -  I’m a computer science student
--  Instituto de Ciência e Tecnologia Catarinese
+-  Instituto de Ciência e Tecnologia Catarinense
 - Java
 - Git
 
